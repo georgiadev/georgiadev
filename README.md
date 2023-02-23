@@ -1,6 +1,6 @@
 Olá! Eu sou a Georgia!
 
-🌱 Estou aprendendo Java e Python
+🌱 Estou aprendendo Ruby, Desenvolvimento Web, Python
 
 👩‍💻 Sou estudante do curso de análise e desenvolvimento de sistemas
 
